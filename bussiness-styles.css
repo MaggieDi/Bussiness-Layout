@@ -161,7 +161,7 @@ body{
     visibility: hidden;
 }
 #intro{
-    background-image:url("industrial.jpg");
+    background-image:url("./img/industrial.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding:185px 0px 70px 0px; 
@@ -242,7 +242,7 @@ body{
 }
 
 #ourWork{
-    background-image:url("aboutUs.jpg");
+    background-image:url("./img/aboutUs.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding:240px 0px 30px 0px; 
@@ -286,7 +286,7 @@ body{
     opacity: 1;
 }
 #clients{
-    background-image:url("clients.jpg");
+    background-image:url("./img/clients.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding:130px 0px 30px 0px; 
